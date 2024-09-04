@@ -4,10 +4,8 @@ Back in 2007, I happened to stumble upon a game called Roblox. This game introdu
 
 Fast forward to a B.S. in Applied Mathematics and minor in Computer Science at San Jose State University, I am now a software engineer and web developer with 3+ years of professional experience. I honed my craft in web development at various companies such as Fidelity Investments and PayPal, utilizing modern languages and frameworks such as TypeScript, React, and Angular to build exceptional and intuitive web experiences. 
 
-When I'm not coding, I love to play video games of all sorts and genres and enjoy staying active through various fitness activities and sports such as weightlifting, hiking, and rock climbing!\
+When I'm not coding, I love to play video games of all sorts and genres and enjoy staying active through various fitness activities and sports such as weightlifting, hiking, and rock climbing!
 
-
-
-
+<br />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VoChrisK&layout=compact&theme=dracula)
