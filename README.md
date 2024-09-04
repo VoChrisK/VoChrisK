@@ -4,4 +4,4 @@ Fast forward to a B.S. in Applied Mathematics and minor in Computer Science at S
 
 When I'm not coding, I love to play video games of all sorts and genres and enjoy staying active through various fitness activities and sports such as weightlifting, hiking, and rock climbing!
 
-[![Chris Vo's GitHub stats](https://github-readme-stats.vercel.app/api?username=VoChrisK&custom_title=Most Used Languages)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VoChrisK)](https://github.com/anuraghazra/github-readme-stats)
